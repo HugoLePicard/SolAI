@@ -80,9 +80,20 @@ We hope you find our project useful and we welcome any feedback you may have !
 
 ## Project coverage
 
-[A. Roussi, Solar power shines through after a slow start in Africa, Finantial Times, May 26 2022](https://www.ft.com/content/62c5307a-1877-434e-86b1-7d9fadcdafa2)
+[A. Roussi, Solar power shines through after a slow start in Africa, Financial Times, May 26 2022](https://www.ft.com/content/62c5307a-1877-434e-86b1-7d9fadcdafa2)
 
 [E. Maussion, Sénégal, Burkina, Mali : quand les panneaux solaires arrivent en ville, Jeune Afrique, January 26 2022](https://www.jeuneafrique.com/1302466/economie/senegal-burkina-mali-quand-les-panneaux-solaires-arrivent-en-ville/?utm_source=linkedin.com&utm_medium=social&utm_content=jeune_afrique&utm_campaign=post_articles_linkedin_26_01_2022)
 
 [C. Cosset, Électrification du continent africain: le «deep learning» au service de la recherche, RFI, May 04 2022](https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20220503-%C3%A9lectrification-du-continent-africain-le-deep-learning-au-service-de-la-recherche)
 
+[Ifri, Le solaire décentralisé à l'assaut des villes africaines, Connaissance des Énergies, January 19 2022](https://www.connaissancedesenergies.org/le-solaire-decentralise-lassaut-des-villes-africaines-241104)
+
+[Gwénaëlle Deboutte, L’impact des systèmes solaires décentralisés sur l’extension du réseau en Afrique, PV Magazine France, January 25 2022](https://www.pv-magazine.fr/2022/01/25/limpact-des-systemes-solaires-decentralises-sur-lextension-du-reseau-en-afrique/)
+
+[Aniamey News, Électrification du continent africain: le «deep learning» au service de la recherche, Aniamey News, May 04 2022](http://news.aniamey.com/h/109316.html)
+
+[Myriam Fournier Kacimin, Vincent Kientz, Arnaud Rouget, Quel avenir énergétique pour l’Afrique ?, Société Générale Private Banking](https://www.privatebanking.societegenerale.com/fr/actualites/quel-avenir-energetique-pour-lafrique/)
+
+[Decentralized Solar Power Growth in African Cities: A Satellite Imagery Analysis, Policy Commons, January 18 2022](https://policycommons.net/artifacts/2221293/booming-decentralized-solar-power-in-africas-cities/2978322/)
+
+[Alome News, Électrification du continent africain: le «deep learning» au service de la recherche, Alome News, May 04 2022](http://news.alome.com/h/139285.html)
